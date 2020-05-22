@@ -3,7 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-const fs = require('fs');
+//athigwefjbawef
+ const fs = require('fs');
 const path = require('path');
 const os = require('os');
 const { remote } = require('electron');
